@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scrollbar-width: normal;
+    scrollbar-color: #777 #25252A;
+}
